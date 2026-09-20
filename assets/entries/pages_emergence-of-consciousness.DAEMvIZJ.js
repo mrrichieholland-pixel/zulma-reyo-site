@@ -1,124 +1,109 @@
-import{j as e,n as c,l as t,m as r,O as v,T as k,a as o,F as i,g as a,U as z,d as x,c as p,b as l,r as w,e as q,f as m,i as u,R as C,h as N,P as E,k as S,o as T}from"../chunks/chunk-DT60O55a.js";import{d as g}from"../chunks/chunk-DNNfecr6.js";/* empty css                      */const b="Zulma-Reyo",A=[{id:"xw6hO9rQtorXwPgVq3mL8"},{id:"5pj2YqO1vL_vAsDBtIsXj",maxWidth:991},{id:"bfCyNFPy2ONvIk8YrfofX",maxWidth:767},{id:"SmiL0fhh5CGtNufKJpUNl",maxWidth:479}],_="Zulma_reyo_favicon_II63x2VI67ZAmVqLFKRyE.png",P=["DMSans-VariableFont_opsz_wght_024TU8xKTl_JWSQ8iEN-W.ttf"],L=[],O=n=>e.jsx("body",{className:"w-element",children:e.jsxs(c,{className:"w-box c11hxzxw c1qgqhj9 c9tupt1 cbpw6yu c15cozji",children:[e.jsx(t,{children:e.jsx(r,{children:e.jsxs(v,{className:"w-navigation-menu c19z14fw ctt146z c1bxyvvd c1eo19qr csx0jln cnzen2g cxmhbr c1hu1a8p c1ejoauv c4fsfp7 c1gfldl c1c8jemz c864stt cqyhjm6 c9wdc4s c1earkax c55zyem c1guh0f7 cuiwifj cq9fqtg c1x5zywv",children:[e.jsxs(k,{className:"w-menu-list c1c8jemz c7x3k4p crym241 c1m4xek csz5k0d cwe8ben c1gfldl c907s1f c1o9xod8 c10wgu2x cp9hjd4",children:[e.jsx(o,{"data-ws-index":"0",className:"w-menu-item",children:e.jsx(i,{children:e.jsx(a,{href:"/",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5 c1a2xgq0",children:"Home"})})}),e.jsx(o,{"data-ws-index":"1",className:"w-menu-item",children:e.jsx(i,{children:e.jsx(a,{href:"/about",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"About"})})}),e.jsx(o,{"data-ws-index":"2",className:"w-menu-item",children:e.jsx(i,{children:e.jsx(a,{href:"/books",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"Books"})})}),e.jsx(o,{"data-ws-index":"3",className:"w-menu-item",children:e.jsx(i,{children:e.jsx(a,{href:"/blog",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"Blog"})})}),e.jsx(o,{"data-ws-index":"4",className:"w-menu-item",children:e.jsx(i,{children:e.jsx(a,{href:"/resources",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"Resources"})})}),e.jsx(o,{"data-ws-index":"5",className:"w-menu-item",children:e.jsx(i,{children:e.jsx(a,{href:"/interpersonal",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"Interpersonal"})})})]}),e.jsx(c,{className:"w-box cyqle8x c1jov44x c7iykfg c1c8jemz c1gfldl",children:e.jsx(z,{className:"w-menu-viewport cqqbnux c1xkdypv czrghi7 c177z8tr csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 crd64mg cpy0xxn c77snrf c17arhin c1dschd3 cq93c5h"})})]})})}),e.jsxs(c,{className:"w-box c1c8jemz c13c1rcz cijb2yq c1t92kx1 cfci7n5 crl6man cwe8ben c9wo6r0 c169sxda cegil12 c3lj6oc",children:[e.jsx(c,{className:"w-box c19z14fw c1ykavy9 c1afzyjo c1x8rwk7 c1sswdna c1c8jemz cnwhrjb c19jrb6o cgcmnqi c1xpgru1",children:e.jsx(g,{src:"/assets/6749e943b9da5c001e024705_thumbnail_image005_1_ukymxLEKJPIpdxy1W36N6.jpg",width:1422,height:1241,alt:"",className:"w-image cpoom58 c7x3k4p c14pf4we"})}),e.jsx(c,{className:"w-box c19z14fw c1ykavy9 c1afzyjo c5efymf c1vbma3k cejlizh c5907qc ccctj0j c1i3621k c1h5efyf coyp8mn c15lygjs ccldg0d c1khtt2p c1hvqd8j c1rdh74g cnd45u6 c3ecpd8 c1jpfbd4 c122gbsm c1t47eex cy687ze c4f875n"}),e.jsx(c,{className:"w-box cyqle8x c5efymf c1x8rwk7 c1afzyjo c1wri8ne cejlizh c5907qc ccctj0j cdcbqad c1h5efyf coyp8mn c15lygjs ctkhmi4 coqf6no ccldg0d"}),e.jsxs(c,{className:"w-box c1c8jemz c13c1rcz c3pil9t c1sw5vaj cqqbnux c5883k2 c17y9rm9 c864stt c1jv4rw7 c1ilkjht c1q4qaxe c64jue3",children:[e.jsxs(x,{tag:"h1",className:"w-heading c1mgpq5k ci1d6oe cnomqlg c1js0rsg c1vpil63 cr73itr c15fyjnk c2edgyb c5aft4v c1qs7zuc",children:["EMERGENCE OF CONSCIOUSNESS:","",e.jsx("br",{}),"","DEATH OF THE EGO",e.jsx("b",{className:"w-element c1eo9jjs cvghe9z c1vpil63",children:" "}),"",e.jsx("br",{}),""]}),e.jsxs("h1",{className:"w-element c15fyjnk c1vpil63",children:['"Dying is living. And to live is to learn to Love. To love myself and to love one another."',"",e.jsx("br",{}),"",e.jsx("b",{className:"w-element c1vpil63",children:"- Zulma Reyo"})]})]})]}),e.jsxs(c,{className:"w-box cqqbnux clxzb2o",children:[e.jsx(c,{className:"w-box c1r8ilwd c55zyem c9wdc4s cqqbnux coaxbf5",children:e.jsxs(c,{className:"w-box c1c8jemz c13c1rcz c9wo6r0 c169sxda c1izev8b chsy39 c1aehv93 c1ibyvfl cnwhrjb",children:[e.jsxs(c,{className:"w-box c1c8jemz cwe8ben cijb2yq c1t92kx1 c1sig0cj c197ny5i cawp2kf",children:[e.jsx(c,{className:"w-box c864stt c4jp1ht c10pn7w3 c12brv0j c2y346e czrghi7 c177z8tr c1p9ojfn",children:e.jsx(g,{src:"/assets/Untitled_design_(26)__X5LrkCYt4zLF0ZJgJ53F.png",width:1771,height:2400,alt:"",className:"w-image c864stt cfneo0d cnwhrjb c1lqd2kh c6tlyj7 c6b7l3e csp2qzy csudadn c16oazkr cguxcg3 ce9qljv c1s7jfqo"})}),e.jsxs(c,{className:"w-box c864stt c1c8jemz c13c1rcz c3pil9t c1sw5vaj",children:[e.jsx(x,{tag:"h2",className:"w-heading c1mgpq5k ci1d6oe cw99ja1 c12wvsak c185in4y c1p0zjl cisrg5r c1vkuqfl c15e96u4",children:e.jsx("b",{className:"w-element c1vpil63",children:"EMERGENCE OF CONSCIOUSNESS"})}),e.jsxs(p,{tag:"span",className:"w-text cw99ja1 c12wvsak c1vkuqfl c15e96u4",children:["A practical guide to conscious dying.  Prepare to explore the true extent of your being and emerge transformed, ready to live fully and authentically.","",e.jsx("br",{}),"","",e.jsx("br",{}),"","‍",e.jsx("i",{className:"w-element",children:"Emergence of Consciousness: Death of the Ego"})," combines ancient wisdom with practical exercises, inviting readers to embrace a profound journey of self-discovery and service.","",e.jsx("br",{}),"","",e.jsx("br",{}),"","",e.jsx("br",{}),""]}),e.jsx(l,{code:`<!-- ===================================================================
-     Emergence of Consciousness — Download Button Embed
-     Transparent background, self-contained, responsive.
-     Paste this whole block into any HTML page / embed widget.
-=================================================================== -->
-<div id="em-downloads">
-  <style>
-    #em-downloads {
-      background: transparent;
-      box-sizing: border-box;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    }
-    #em-downloads * { box-sizing: border-box; }
-
-    #em-downloads .em-dl-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1rem;
-    }
-
-    #em-downloads .em-dl-dropdown {
-      position: relative;
-    }
-
-    #em-downloads .em-dl-toggle {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      padding: 0.75rem 1.5rem;
-      background: #1a1a2e;
-      color: #fff;
-      border: none;
-      border-radius: 999px;
-      font-size: 0.95rem;
-      font-weight: 600;
-      cursor: pointer;
-      letter-spacing: 0.02em;
-      transition: background 0.2s ease, opacity 0.2s ease;
-    }
-    #em-downloads .em-dl-toggle:hover {
-      opacity: 0.85;
-    }
-    #em-downloads .em-dl-toggle .em-dl-arrow {
-      display: inline-block;
-      width: 0;
-      height: 0;
-      border-left: 5px solid transparent;
-      border-right: 5px solid transparent;
-      border-top: 6px solid currentColor;
-      transition: transform 0.2s ease;
-    }
-    #em-downloads .em-dl-dropdown.open .em-dl-arrow {
-      transform: rotate(180deg);
-    }
-
-    #em-downloads .em-dl-menu {
-      position: absolute;
-      top: calc(100% + 0.5rem);
-      left: 0;
-      min-width: 100%;
-      background: #ffffff;
-      border-radius: 10px;
-      box-shadow: 0 8px 24px rgba(0,0,0,0.18);
-      overflow: hidden;
-      display: none;
-      z-index: 10;
-    }
-    #em-downloads .em-dl-dropdown.open .em-dl-menu {
-      display: block;
-    }
-
-    #em-downloads .em-dl-menu a {
-      display: block;
-      padding: 0.7rem 1.5rem;
-      color: #1a1a2e;
-      text-decoration: none;
-      font-size: 0.9rem;
-      white-space: nowrap;
-    }
-    #em-downloads .em-dl-menu a:hover {
-      background: #f0f0f5;
-    }
-  </style>
-
-  <div class="em-dl-row">
-
-    <div class="em-dl-dropdown">
-      <button type="button" class="em-dl-toggle">
-        Download Emergence <span class="em-dl-arrow"></span>
-      </button>
-      <div class="em-dl-menu">
-        <a href="https://lighten-ebooks.s3.eu-west-2.amazonaws.com/Emergence+of+Consciousness+-+Zulma+Reyo.epub" target="_blank" rel="noopener">Ebook</a>
-        <a href="https://lighten-ebooks.s3.eu-west-2.amazonaws.com/Emergence+of+Consciousness+-+Zulma+Reyo.pdf" target="_blank" rel="noopener">PDF</a>
-        <a href="https://lighten-audio.s3.eu-west-2.amazonaws.com/Emergence+of+Consciousness%3A+Death+of+The+Ego.wav" target="_blank" rel="noopener">Audiobook</a>
-      </div>
-    </div>
-
+import{j as e,n as c,l as t,m as r,O as v,T as z,a as o,F as i,g as a,U as k,d as x,c as p,b as l,r as b,e as q,f as m,i as u,R as N,h as C,P as E,k as S,o as A}from"../chunks/chunk-DT60O55a.js";import{d as g}from"../chunks/chunk-DNNfecr6.js";/* empty css                      */const w="Zulma-Reyo",T=[{id:"xw6hO9rQtorXwPgVq3mL8"},{id:"5pj2YqO1vL_vAsDBtIsXj",maxWidth:991},{id:"bfCyNFPy2ONvIk8YrfofX",maxWidth:767},{id:"SmiL0fhh5CGtNufKJpUNl",maxWidth:479}],P="Zulma_reyo_favicon_II63x2VI67ZAmVqLFKRyE.png",_=["DMSans-VariableFont_opsz_wght_024TU8xKTl_JWSQ8iEN-W.ttf"],O=[],Z=n=>e.jsx("body",{className:"w-element",children:e.jsxs(c,{className:"w-box c11hxzxw c1qgqhj9 c9tupt1 cbpw6yu c15cozji",children:[e.jsx(t,{children:e.jsx(r,{children:e.jsxs(v,{className:"w-navigation-menu c19z14fw ctt146z c1bxyvvd c1eo19qr csx0jln cnzen2g cxmhbr c1hu1a8p c1ejoauv c4fsfp7 c1gfldl c1c8jemz c864stt cqyhjm6 c9wdc4s c1earkax c55zyem c1guh0f7 cuiwifj cq9fqtg c1x5zywv",children:[e.jsxs(z,{className:"w-menu-list c1c8jemz c7x3k4p crym241 c1m4xek csz5k0d cwe8ben c1gfldl c907s1f c1o9xod8 c10wgu2x cp9hjd4",children:[e.jsx(o,{"data-ws-index":"0",className:"w-menu-item",children:e.jsx(i,{children:e.jsx(a,{href:"/",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5 c1a2xgq0",children:"Home"})})}),e.jsx(o,{"data-ws-index":"1",className:"w-menu-item",children:e.jsx(i,{children:e.jsx(a,{href:"/about",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"About"})})}),e.jsx(o,{"data-ws-index":"2",className:"w-menu-item",children:e.jsx(i,{children:e.jsx(a,{href:"/books",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"Books"})})}),e.jsx(o,{"data-ws-index":"3",className:"w-menu-item",children:e.jsx(i,{children:e.jsx(a,{href:"/blog",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"Blog"})})}),e.jsx(o,{"data-ws-index":"4",className:"w-menu-item",children:e.jsx(i,{children:e.jsx(a,{href:"/resources",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"Resources"})})}),e.jsx(o,{"data-ws-index":"5",className:"w-menu-item",children:e.jsx(i,{children:e.jsx(a,{href:"/interpersonal",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"Interpersonal"})})})]}),e.jsx(c,{className:"w-box cyqle8x c1jov44x c7iykfg c1c8jemz c1gfldl",children:e.jsx(k,{className:"w-menu-viewport cqqbnux c1xkdypv czrghi7 c177z8tr csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 crd64mg cpy0xxn c77snrf c17arhin c1dschd3 cq93c5h"})})]})})}),e.jsxs(c,{className:"w-box c1c8jemz c13c1rcz cijb2yq c1t92kx1 cfci7n5 crl6man cwe8ben c9wo6r0 c169sxda cegil12 c3lj6oc",children:[e.jsx(c,{className:"w-box c19z14fw c1ykavy9 c1afzyjo c1x8rwk7 c1sswdna c1c8jemz cnwhrjb c19jrb6o cgcmnqi c1xpgru1",children:e.jsx(g,{src:"/assets/6749e943b9da5c001e024705_thumbnail_image005_1_ukymxLEKJPIpdxy1W36N6.jpg",width:1422,height:1241,alt:"",className:"w-image cpoom58 c7x3k4p c14pf4we"})}),e.jsx(c,{className:"w-box c19z14fw c1ykavy9 c1afzyjo c5efymf c1vbma3k cejlizh c5907qc ccctj0j c1i3621k c1h5efyf coyp8mn c15lygjs ccldg0d c1khtt2p c1hvqd8j c1rdh74g cnd45u6 c3ecpd8 c1jpfbd4 c122gbsm c1t47eex cy687ze c4f875n"}),e.jsx(c,{className:"w-box cyqle8x c5efymf c1x8rwk7 c1afzyjo c1wri8ne cejlizh c5907qc ccctj0j cdcbqad c1h5efyf coyp8mn c15lygjs ctkhmi4 coqf6no ccldg0d"}),e.jsxs(c,{className:"w-box c1c8jemz c13c1rcz c3pil9t c1sw5vaj cqqbnux c5883k2 c17y9rm9 c864stt c1jv4rw7 c1ilkjht c1q4qaxe c64jue3",children:[e.jsxs(x,{tag:"h1",className:"w-heading c1mgpq5k ci1d6oe cnomqlg c1js0rsg c1vpil63 cr73itr c15fyjnk c2edgyb c5aft4v c1qs7zuc",children:["EMERGENCE OF CONSCIOUSNESS:","",e.jsx("br",{}),"","DEATH OF THE EGO",e.jsx("b",{className:"w-element c1eo9jjs cvghe9z c1vpil63",children:" "}),"",e.jsx("br",{}),""]}),e.jsxs("h1",{className:"w-element c15fyjnk c1vpil63",children:['"Dying is living. And to live is to learn to Love. To love myself and to love one another."',"",e.jsx("br",{}),"",e.jsx("b",{className:"w-element c1vpil63",children:"- Zulma Reyo"})]})]})]}),e.jsxs(c,{className:"w-box cqqbnux clxzb2o",children:[e.jsx(c,{className:"w-box c1r8ilwd c55zyem c9wdc4s cqqbnux coaxbf5",children:e.jsxs(c,{className:"w-box c1c8jemz c13c1rcz c9wo6r0 c169sxda c1izev8b chsy39 c1aehv93 c1ibyvfl cnwhrjb",children:[e.jsxs(c,{className:"w-box c1c8jemz cwe8ben cijb2yq c1t92kx1 c1sig0cj c197ny5i cawp2kf",children:[e.jsx(c,{className:"w-box c864stt c4jp1ht c10pn7w3 c12brv0j c2y346e czrghi7 c177z8tr c1p9ojfn",children:e.jsx(g,{src:"/assets/Untitled_design_(26)__X5LrkCYt4zLF0ZJgJ53F.png",width:1771,height:2400,alt:"",className:"w-image c864stt cfneo0d cnwhrjb c1lqd2kh c6tlyj7 c6b7l3e csp2qzy csudadn c16oazkr cguxcg3 ce9qljv c1s7jfqo"})}),e.jsxs(c,{className:"w-box c864stt c1c8jemz c13c1rcz c3pil9t c1sw5vaj",children:[e.jsx(x,{tag:"h2",className:"w-heading c1mgpq5k ci1d6oe cw99ja1 c12wvsak c185in4y c1p0zjl cisrg5r c1vkuqfl c15e96u4",children:e.jsx("b",{className:"w-element c1vpil63",children:"EMERGENCE OF CONSCIOUSNESS"})}),e.jsxs(p,{tag:"span",className:"w-text cw99ja1 c12wvsak c1vkuqfl c15e96u4",children:["A practical guide to conscious dying.  Prepare to explore the true extent of your being and emerge transformed, ready to live fully and authentically.","",e.jsx("br",{}),"","",e.jsx("br",{}),"","‍",e.jsx("i",{className:"w-element",children:"Emergence of Consciousness: Death of the Ego"})," combines ancient wisdom with practical exercises, inviting readers to embrace a profound journey of self-discovery and service.","",e.jsx("br",{}),"","",e.jsx("br",{}),"","",e.jsx("br",{}),""]}),e.jsx(l,{code:`<div class="emg-dropdown">
+  <button class="emg-btn" onclick="toggleEmgMenu(this)" aria-expanded="false">
+    Download Emergence <span class="emg-chev">▾</span>
+  </button>
+  <div class="emg-menu">
+    <a href="https://github.com/zulmareyosocial-byte/audiobook/releases/download/v1.0.0/Emergence+of+Consciousness+-+Zulma+Reyo.epub">Ebook</a>
+    <a href="https://github.com/zulmareyosocial-byte/audiobook/releases/download/v1.0.0/Emergence+of+Consciousness+-+Zulma+Reyo.pdf">PDF</a>
+    <a href="https://github.com/zulmareyosocial-byte/audiobook/releases/download/v1.0.0/Emergence.of.Consciousness.-.Zulma.Reyo.mp3">Audiobook</a>
   </div>
+</div>
 
-  <script>
-    (function() {
-      var root = document.getElementById('em-downloads');
-      if (!root) return;
-      var dropdowns = root.querySelectorAll('.em-dl-dropdown');
+<style>
+  .emg-dropdown {
+    position: relative;
+    display: inline-block;
+  }
 
-      dropdowns.forEach(function(dd) {
-        var toggle = dd.querySelector('.em-dl-toggle');
-        toggle.addEventListener('click', function(e) {
-          e.stopPropagation();
-          var isOpen = dd.classList.contains('open');
-          dropdowns.forEach(function(d) { d.classList.remove('open'); });
-          if (!isOpen) dd.classList.add('open');
-        });
+  .emg-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    min-width: 257px;
+    padding: 14px 20px;
+    background-color: #0b5a94;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 1.3;
+    box-sizing: border-box;
+    transition: filter 0.2s ease;
+  }
+
+  .emg-btn:hover {
+    filter: brightness(1.1);
+  }
+
+  .emg-chev {
+    font-size: 16px;
+    transition: transform 0.2s ease;
+  }
+
+  .emg-dropdown.open .emg-chev {
+    transform: rotate(180deg);
+  }
+
+  .emg-menu {
+    display: none;
+    position: absolute;
+    top: calc(100% + 10px);
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 8px 0;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+    z-index: 100;
+  }
+
+  .emg-dropdown.open .emg-menu {
+    display: block;
+  }
+
+  .emg-menu a {
+    display: block;
+    padding: 10px 20px;
+    color: #1272b5;
+    text-decoration: none;
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: 700;
+  }
+
+  .emg-menu a:hover {
+    background-color: #eef5fb;
+  }
+</style>
+
+<script>
+  function toggleEmgMenu(btn) {
+    const dropdown = btn.parentElement;
+    const wasOpen = dropdown.classList.contains('open');
+    document.querySelectorAll('.emg-dropdown').forEach(d => {
+      d.classList.remove('open');
+      d.querySelector('.emg-btn').setAttribute('aria-expanded', 'false');
+    });
+    if (!wasOpen) {
+      dropdown.classList.add('open');
+      btn.setAttribute('aria-expanded', 'true');
+    }
+  }
+
+  document.addEventListener('click', function (e) {
+    if (!e.target.closest('.emg-dropdown')) {
+      document.querySelectorAll('.emg-dropdown').forEach(d => {
+        d.classList.remove('open');
+        d.querySelector('.emg-btn').setAttribute('aria-expanded', 'false');
       });
-
-      document.addEventListener('click', function() {
-        dropdowns.forEach(function(d) { d.classList.remove('open'); });
-      });
-    })();
-  <\/script>
-</div>`,className:"w-html-embed"})]})]}),e.jsxs("div",{className:"w-element",children:[e.jsx("p",{className:"w-element",children:"‍ ‍"}),e.jsx("h1",{className:"w-element c1lwvz1s",children:"ABOUT THE BOOK"}),e.jsx(l,{code:`<div style="padding:56.25% 0 0 0; position:relative;">
+    }
+  });
+<\/script>`,className:"w-html-embed"})]})]}),e.jsxs("div",{className:"w-element",children:[e.jsx("p",{className:"w-element",children:"‍ ‍"}),e.jsx("h1",{className:"w-element c1lwvz1s",children:"ABOUT THE BOOK"}),e.jsx(l,{code:`<div style="padding:56.25% 0 0 0; position:relative;">
   <iframe src="https://player.vimeo.com/video/1023830990?h=342c2bec8d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=5879" 
     frameborder="0" 
     allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" 
@@ -220,4 +205,4 @@ import{j as e,n as c,l as t,m as r,O as v,T as k,a as o,F as i,g as a,U as z,d a
 </svg>`,className:"w-html-embed"})})})}),e.jsx(t,{children:e.jsx(r,{children:e.jsx(a,{target:"_blank",href:"https://www.youtube.com/@Zulma-Reyo",className:"w-link c1qgqhj9 cy5k50n ce1wqkj cl3pvvv",children:e.jsx(l,{code:`<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32" fill="none">
   <path d="M31.281 8.28904C31.9488 10.7806 31.9488 15.979 31.9488 15.979C31.9488 15.979 31.9488 21.1774 31.281 23.6687C30.9136 25.0433 29.8311 26.126 28.4565 26.4934C25.9648 27.1608 15.9743 27.1608 15.9743 27.1608C15.9743 27.1608 5.98369 27.1608 3.49191 26.4934C2.11755 26.126 1.03486 25.0433 0.667456 23.6687C0 21.1774 0 15.979 0 15.979C0 15.979 0 10.7806 0.667456 8.28904C1.03486 6.91443 2.11755 5.83198 3.49191 5.46458C5.98369 4.79688 15.9743 4.79688 15.9743 4.79688C15.9743 4.79688 25.9648 4.79688 28.4565 5.46458C29.8311 5.83198 30.9136 6.91443 31.281 8.28904ZM12.7792 20.7714L21.0795 15.979L12.7792 11.1867V20.7714Z" fill="currentcolor
 "></path>
-</svg>`,className:"w-html-embed"})})})})]}),e.jsxs(p,{className:"w-text ctbi92i c1ycqi1j ctuvkzm c14pf4we c1hv3ejz cwc5pnf",children:[e.jsx(a,{href:"/terms-and-conditions",className:"w-element c16gupz2 c1d38r3s cptdb8j c5bfwmr cg86m9t c1k4dzvw c179mceq c122lzqi c1rontuu c19eb01u",children:"Terms & Conditions "}),"| ",e.jsx(a,{href:"/privacy-policy",className:"w-element cg86m9t c19eb01u",children:"Privacy Policy"})," | ",e.jsx(a,{href:"/disclaimer",className:"w-element cg86m9t c19eb01u c11hxzxw c1ycqi1j c1hv3ejz cbpw6yu ctbi92i c10kborm ca24ei4 c1szdtbg coocrc9",children:"Disclaimer"})]}),e.jsx(p,{className:"w-text ctbi92i c1ycqi1j ctuvkzm c14pf4we c1hv3ejz ctbw9sp",children:"©2026 ZULMA REYO"})]})})})})]})})})]})}),M=n=>{const{origin:s,pathname:h,search:d}=new URL(n);return`${s}${h}${d}`},Z=w.memo(({pageKey:n,system:s})=>e.jsx(O,{system:s},n),(n,s)=>n.pageKey===s.pageKey),R=({data:n})=>{const{system:s,resources:h,url:d,pageMeta:f}=n,j=M(d),y=w.useMemo(()=>({imageLoader:u,assetBaseUrl:m,assetUrlsByPath:q,resources:h,breakpoints:A,onError:console.error}),[h]);return e.jsxs(C.Provider,{value:y,children:[e.jsx(N.Provider,{value:d,children:e.jsx(Z,{pageKey:j,system:s})}),e.jsx(E,{url:d,pageMeta:f,siteName:b,imageLoader:u,assetBaseUrl:m}),e.jsx(S,{children:f.title})]})},I=Object.freeze(Object.defineProperty({__proto__:null,default:R},Symbol.toStringTag,{value:"Module"})),B=({})=>{const n={"@context":"https://schema.org","@type":"WebSite",name:b};return e.jsxs(e.Fragment,{children:[e.jsx("script",{type:"application/ld+json",dangerouslySetInnerHTML:{__html:JSON.stringify(n,null,2)}}),e.jsx("link",{rel:"icon",href:u({src:`${m}${_}`})}),P.map(s=>e.jsx("link",{rel:"preload",href:`${m}${s}`,as:"font",crossOrigin:"anonymous"},s)),L.map(s=>e.jsx("link",{rel:"preload",href:`${m}${s}`,as:"image"},s))]})},U=Object.freeze(Object.defineProperty({__proto__:null,Head:B},Symbol.toStringTag,{value:"Module"})),F={isClientRuntimeLoaded:{type:"computed",definedAtData:null,valueSerialized:{type:"js-serialized",value:!0}},onBeforeRenderEnv:{type:"computed",definedAtData:null,valueSerialized:{type:"js-serialized",value:null}},dataEnv:{type:"computed",definedAtData:null,valueSerialized:{type:"js-serialized",value:{server:!0}}},onRenderClient:{type:"standard",definedAtData:{filePathToShowToUser:"/renderer/+onRenderClient.tsx",fileExportPathToShowToUser:[]},valueSerialized:{type:"plus-file",exportValues:T}},Page:{type:"standard",definedAtData:{filePathToShowToUser:"/pages/emergence-of-consciousness/+Page.tsx",fileExportPathToShowToUser:[]},valueSerialized:{type:"plus-file",exportValues:I}},Head:{type:"standard",definedAtData:{filePathToShowToUser:"/pages/emergence-of-consciousness/+Head.tsx",fileExportPathToShowToUser:[]},valueSerialized:{type:"plus-file",exportValues:U}}};export{F as configValuesSerialized};
+</svg>`,className:"w-html-embed"})})})})]}),e.jsxs(p,{className:"w-text ctbi92i c1ycqi1j ctuvkzm c14pf4we c1hv3ejz cwc5pnf",children:[e.jsx(a,{href:"/terms-and-conditions",className:"w-element c16gupz2 c1d38r3s cptdb8j c5bfwmr cg86m9t c1k4dzvw c179mceq c122lzqi c1rontuu c19eb01u",children:"Terms & Conditions "}),"| ",e.jsx(a,{href:"/privacy-policy",className:"w-element cg86m9t c19eb01u",children:"Privacy Policy"})," | ",e.jsx(a,{href:"/disclaimer",className:"w-element cg86m9t c19eb01u c11hxzxw c1ycqi1j c1hv3ejz cbpw6yu ctbi92i c10kborm ca24ei4 c1szdtbg coocrc9",children:"Disclaimer"})]}),e.jsx(p,{className:"w-text ctbi92i c1ycqi1j ctuvkzm c14pf4we c1hv3ejz ctbw9sp",children:"©2026 ZULMA REYO"})]})})})})]})})})]})}),L=n=>{const{origin:s,pathname:h,search:d}=new URL(n);return`${s}${h}${d}`},M=b.memo(({pageKey:n,system:s})=>e.jsx(Z,{system:s},n),(n,s)=>n.pageKey===s.pageKey),R=({data:n})=>{const{system:s,resources:h,url:d,pageMeta:f}=n,j=L(d),y=b.useMemo(()=>({imageLoader:u,assetBaseUrl:m,assetUrlsByPath:q,resources:h,breakpoints:T,onError:console.error}),[h]);return e.jsxs(N.Provider,{value:y,children:[e.jsx(C.Provider,{value:d,children:e.jsx(M,{pageKey:j,system:s})}),e.jsx(E,{url:d,pageMeta:f,siteName:w,imageLoader:u,assetBaseUrl:m}),e.jsx(S,{children:f.title})]})},I=Object.freeze(Object.defineProperty({__proto__:null,default:R},Symbol.toStringTag,{value:"Module"})),U=({})=>{const n={"@context":"https://schema.org","@type":"WebSite",name:w};return e.jsxs(e.Fragment,{children:[e.jsx("script",{type:"application/ld+json",dangerouslySetInnerHTML:{__html:JSON.stringify(n,null,2)}}),e.jsx("link",{rel:"icon",href:u({src:`${m}${P}`})}),_.map(s=>e.jsx("link",{rel:"preload",href:`${m}${s}`,as:"font",crossOrigin:"anonymous"},s)),O.map(s=>e.jsx("link",{rel:"preload",href:`${m}${s}`,as:"image"},s))]})},B=Object.freeze(Object.defineProperty({__proto__:null,Head:U},Symbol.toStringTag,{value:"Module"})),F={isClientRuntimeLoaded:{type:"computed",definedAtData:null,valueSerialized:{type:"js-serialized",value:!0}},onBeforeRenderEnv:{type:"computed",definedAtData:null,valueSerialized:{type:"js-serialized",value:null}},dataEnv:{type:"computed",definedAtData:null,valueSerialized:{type:"js-serialized",value:{server:!0}}},onRenderClient:{type:"standard",definedAtData:{filePathToShowToUser:"/renderer/+onRenderClient.tsx",fileExportPathToShowToUser:[]},valueSerialized:{type:"plus-file",exportValues:A}},Page:{type:"standard",definedAtData:{filePathToShowToUser:"/pages/emergence-of-consciousness/+Page.tsx",fileExportPathToShowToUser:[]},valueSerialized:{type:"plus-file",exportValues:I}},Head:{type:"standard",definedAtData:{filePathToShowToUser:"/pages/emergence-of-consciousness/+Head.tsx",fileExportPathToShowToUser:[]},valueSerialized:{type:"plus-file",exportValues:B}}};export{F as configValuesSerialized};
