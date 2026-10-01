@@ -1,4 +1,4 @@
-import{r as m,R as x,j as y}from"./chunk-DT60O55a.js";var N=`data:image/svg+xml;base64,${btoa(`<svg
+import{r as m,R as x,j as y}from"./chunk-8_vFVUIJ.js";var N=`data:image/svg+xml;base64,${btoa(`<svg
   width="140"
   height="140"
   viewBox="0 0 600 600"
