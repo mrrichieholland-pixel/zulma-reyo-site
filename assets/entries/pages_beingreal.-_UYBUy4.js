@@ -1,0 +1,103 @@
+import{j as e,n as c,l as n,m as i,O as z,T as w,U as r,W as l,g as t,a as k,d as f,b as x,c as m,e as p,r as b,f as q,h as d,i as u,R as C,k as N,P as S,o as _,p as T}from"../chunks/chunk-B4_U8AT8.js";import{f as M}from"../chunks/chunk-Crpl76Vp.js";/* empty css                      */const j="Zulma-Reyo",P=[{id:"xw6hO9rQtorXwPgVq3mL8"},{id:"5pj2YqO1vL_vAsDBtIsXj",maxWidth:991},{id:"bfCyNFPy2ONvIk8YrfofX",maxWidth:767},{id:"SmiL0fhh5CGtNufKJpUNl",maxWidth:479}],L="Zulma_reyo_favicon_II63x2VI67ZAmVqLFKRyE.png",A=["DMSans-VariableFont_opsz_wght_024TU8xKTl_JWSQ8iEN-W.ttf"],B=[],E=a=>e.jsx(M,{className:"w-body",children:e.jsxs(c,{className:"w-box c11hxzxw c1qgqhj9 c9tupt1 cbpw6yu c1onpbgg c15cozji",children:[e.jsx(n,{children:e.jsx(i,{children:e.jsxs(z,{className:"w-navigation-menu c19z14fw ctt146z c1bxyvvd c1eo19qr csx0jln cnzen2g cxmhbr c1hu1a8p c1ejoauv c4fsfp7 c1gfldl c1c8jemz c864stt cqyhjm6 c9wdc4s c1earkax c55zyem c1guh0f7 cuiwifj cq9fqtg c1usqucz c1x5zywv",children:[e.jsxs(w,{className:"w-menu-list c1c8jemz c7x3k4p crym241 c1m4xek csz5k0d cwe8ben c1gfldl c907s1f c1o9xod8 c10wgu2x cp9hjd4",children:[e.jsx(r,{"data-ws-index":"0",className:"w-menu-item",children:e.jsx(l,{children:e.jsx(t,{href:"/",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5 c1a2xgq0",children:"Home"})})}),e.jsx(r,{"data-ws-index":"1",className:"w-menu-item",children:e.jsx(l,{children:e.jsx(t,{href:"/about",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"About"})})}),e.jsx(r,{"data-ws-index":"2",className:"w-menu-item",children:e.jsx(l,{children:e.jsx(t,{href:"/books",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"Books"})})})]}),e.jsxs(w,{className:"w-menu-list c1c8jemz c7x3k4p crym241 c1m4xek csz5k0d cwe8ben c1gfldl c907s1f c1o9xod8 c10wgu2x cp9hjd4",children:[e.jsx(r,{"data-ws-index":"3",className:"w-menu-item",children:e.jsx(l,{children:e.jsx(t,{href:"/blog",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"Blog"})})}),e.jsx(r,{"data-ws-index":"4",className:"w-menu-item",children:e.jsx(l,{children:e.jsx(t,{href:"/resources",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"Resources"})})}),e.jsx(r,{"data-ws-index":"5",className:"w-menu-item",children:e.jsx(l,{children:e.jsx(t,{href:"/interpersonal",className:"w-link cztsp8m cwe8ben c1gfldl cxcaddt csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 c1wxafn cgs0l91 c1lwvz1s c1837j95 cb1z2na c1u7pnj7 cxrls5u c1k2g03l c19eb01u cg86m9t cdgcegq cdsjjcx c14cfjdu cvpfyif c1cc90tq cs6qmqu c671vlt c1qkiczx c1df8957 c1fn2hvc c1rd4rg5",children:"Interpersonal"})})})]}),e.jsx(c,{className:"w-box cyqle8x c1jov44x c7iykfg c1c8jemz c1gfldl",children:e.jsx(k,{className:"w-menu-viewport cqqbnux c1xkdypv czrghi7 c177z8tr csl90q0 c1rmvnkk c1tgkfl0 csq1ft1 crd64mg cpy0xxn c77snrf c17arhin c1dschd3 cq93c5h"})}),e.jsx(f,{src:"/assets/ZULMA_REYO_C25QfvIr1WMr5WzHLjcZ7.svg",width:170,height:150,alt:"Zulma Reyo",className:"w-image c1fmkmp8"})]})})}),e.jsxs(c,{className:"w-box c1c8jemz c13c1rcz cijb2yq c1t92kx1 c1rd3t63 crl6man cwe8ben c9wo6r0 c169sxda c1yhv0pq cegil12 c3lj6oc",children:[e.jsx(c,{className:"w-box c19z14fw c1ykavy9 c1afzyjo c5efymf c1vbma3k cejlizh c5907qc ccctj0j c1i3621k c1h5efyf coyp8mn c15lygjs ccldg0d c1khtt2p c1hvqd8j c1rdh74g cnd45u6 c3ecpd8 c1jpfbd4 c122gbsm c1t47eex cy687ze c4f875n"}),e.jsx(c,{className:"w-box c1c8jemz c13c1rcz c3pil9t c1sw5vaj cqqbnux c5883k2 c17y9rm9 c864stt c1jv4rw7 c1ilkjht c1q4qaxe c64jue3",children:e.jsxs(x,{tag:"h1",className:"w-heading c1mgpq5k ci1d6oe cyedmam c1js0rsg c172q1ta cr73itr c2edgyb c5aft4v c1qs7zuc",children:[e.jsx("b",{className:"w-element c1eo9jjs cvghe9z c1vpil63",children:"BLOG"}),"",e.jsx("br",{}),""]})})]}),e.jsxs(c,{className:"w-box cqqbnux clxzb2o",children:[e.jsx(c,{className:"w-box c1r8ilwd c55zyem c9wdc4s cqqbnux coaxbf5",children:e.jsxs(c,{className:"w-box c1c8jemz c13c1rcz c9wo6r0 c169sxda cnj74th c1a8ogxj cirll9i cbpwzq3 cnwhrjb",children:[e.jsx("h1",{className:"w-element c1vpil63",children:e.jsx("b",{className:"w-element",children:"BEING REAL IN AN UNREAL WORLD"})}),e.jsx(f,{src:"/assets/Being_Real_In_An_Unreal_World__EvJWXX4uqjxdO20pPo6W.jpeg",width:1500,height:1451,alt:"",className:"w-image c16pjeqc"}),e.jsxs("p",{className:"w-element c169893l chzsc2m cv7l7n7",children:["The world we see is not the real world.  To recognize its splendour we must first come to terms with our own, beneath and beyond the numerous filters we use to apprise our perceptions. Our judgement is at best “fickle”, adjusting endlessly to fit into one or another definition of reality.  We know when we are not being real and secretly, many of us wish there was a way through into a truer life.","",e.jsx("br",{}),"","We long for authenticity as a state of being that is not qualified by what we do or how we appear.  We long to ",e.jsx("i",{className:"w-element",children:"live"})," it.","",e.jsx("br",{}),"","It begins with the desire to be and have more than what the material world can offer.  The longing grows to mammoth proportions, instilling a dissatisfaction that far from being negative awakens an ardent yearning for expression and greater sharing.   Women tend to confuse this longing with love and partnership, men with competence and renown.  However, it manifests, it escapes everyone who looks for it in the outside world.  ","",e.jsx("br",{}),"","When the moment comes and we feel that craving, something in us knows beyond doubt that there IS a pot of gold at the end of the rainbow.  Like first love, we will leave everything for it.  Nothing less will do.","",e.jsx("br",{}),"","Striving to be genuine then leaves us with something of a puzzle.  Being real does not mean we forfeit the desire to play, but how and with whom?  What to do or not do?  How to “be” in a world that seems increasingly artificial and unfulfilling?  Carefully at first, we unlearn the way of the automaton and learn to walk a tightrope on a path that is razor sharp and tricky.  Will we lose the affection and the comfort of all that we have worked for?  What is going to happen in that great “out there” where nothing is predictable?","",e.jsx("br",{}),"","So, we turn within to find a quality and space that is wholly ours, without interference from the outside world.  We discover a depth that lies beyond what may be seen.  Keenly, we begin to distinguish that innermost space from the other one covering it, where feelings and physical reactions play havoc. This inner space harbours us and is uniquely ours; to reach it we must navigate uncharted oceans beyond fear, without disconnecting from the material world.","",e.jsx("br",{}),"","We live in a society founded on opposition where even the most outrageous rebels fit right in with the sheep.  Being real in an unreal world, is not just challenging, it is anguishing and complicated. It implies that we unlearn the very attitudes and behaviour that allow us to go unnoticed, be comfortable, and feel secure within borrowed beliefs, imposed norms, and hand-me-down expectations that forge our identity.","",e.jsx("br",{}),"","Being real requires we take a deep and serious look at the way we express ourselves in the world and the nature of the meanings we attribute to it.  It is a frustrating, complicated, upsetting art of retraining perception, changing paradigms, and looking out through windows of perception that arise unexpectedly.","",e.jsx("br",{}),"","Our world gradually changes and we attract what we begin to live, and find the support of individuals who have walked a little farther.  They tend a balancing hand, lovingly steering us away from our habitual drifting, all the while careful not to dictate our moves or condition us.  In authenticity, our actions are always and wholly our own, emanating from that inner space where being flourishes.","",e.jsx("br",{}),"","Nobody can tell us it is easy but if you feel it, if you have begun to hanker for it, you already know that it is a glorious expedition into a Reality that is majestic beyond the imagination of this world.","",e.jsx("br",{}),"","",e.jsx("br",{}),"","",e.jsx("br",{}),"",e.jsx("b",{className:"w-element",children:e.jsx("i",{className:"w-element",children:"ZULMA"})}),"",e.jsx("br",{}),"","",e.jsx("br",{}),""]})]})}),e.jsx(c,{className:"w-box cyqle8x c5efymf c1x8rwk7 c1ykavy9 c1afzyjo c1onpbgg clxzb2o"})]}),e.jsx(c,{className:"w-box cklbjsx cqqbnux",children:e.jsx(c,{className:"w-box c1wm91ic cqqbnux",children:e.jsx(c,{className:"w-box c16zyaz9 cqqbnux cg86m9t",children:e.jsx(n,{children:e.jsxs(i,{children:[e.jsx(c,{className:"w-box c55zyem c9wdc4s c1r8ilwd c1aehv93 c1ibyvfl c9wo6r0 c169sxda c121g7ia c1c8jemz c13c1rcz c1izev8b chsy39 cegil12 c3lj6oc c1x5ympu c178zv89 c15xco6s",children:e.jsxs(c,{className:"w-box cnmhoxx c1c8jemz c13c1rcz c3pil9t c1sw5vaj c55zyem c9wdc4s c9wo6r0 c169sxda c1rf2ypd cc0svuf",children:[e.jsx(x,{tag:"h2",className:"w-heading c1mgpq5k ci1d6oe c185in4y c1p0zjl ctbi92i c1vpil63 c143yy7c c1ea200w cvfobc9",children:"SUBSCRIBE TO ZULMA REYO"}),e.jsx(m,{code:`<style>
+  .subscribe-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 2em 1em;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .subscribe-form {
+    display: flex;
+    gap: 0.75em;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 1em;
+    width: 100%;
+    max-width: 480px;
+  }
+
+  .subscribe-form input {
+    box-sizing: border-box;
+    flex: 1 1 220px;
+    width: 100%;
+    min-width: 0;
+    padding: 0.9em 1.2em;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    font-size: 1em;
+    outline: none;
+    font-family: inherit;
+  }
+
+  .subscribe-form input::placeholder {
+    color: rgba(0, 0, 0, 0.45);
+  }
+
+  .subscribe-form button {
+    padding: 0.9em 1.8em;
+    border-radius: 8px;
+    border: none;
+    background-color: #f07b30; /* orange, matches existing Subscribe button */
+    color: #fff;
+    font-weight: 700;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+
+  .subscribe-form button:hover {
+    background-color: #d8681f;
+  }
+
+  .subscribe-success {
+    margin-top: 1em;
+    font-size: 1em;
+    color: inherit;
+    display: none;
+  }
+</style>
+
+<div class="subscribe-wrap">
+  <form id="subscribe-form" class="subscribe-form">
+    <input type="text" name="Name" placeholder="Your name" required />
+    <input type="email" name="Email" placeholder="Type your email..." required />
+    <button type="submit">Subscribe</button>
+  </form>
+  <p id="subscribe-success" class="subscribe-success">Thanks for subscribing!</p>
+</div>
+
+<script>
+  const form = document.getElementById('subscribe-form');
+  const successMsg = document.getElementById('subscribe-success');
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+
+    const formData = new FormData(form);
+
+    fetch('https://script.google.com/macros/s/AKfycbx40k0JUMClT_Lq9LHe_t6qwow4i-UUVeu0eBla9ImMgnKbgSzMTQVm0lfh2IBKMv4Ljg/exec', {
+      method: 'POST',
+      mode: 'no-cors',
+      body: formData
+    }).then(function () {
+      form.style.display = 'none';
+      successMsg.style.display = 'block';
+    }).catch(function () {
+      alert('Something went wrong — please try again.');
+    });
+  });
+<\/script>`,clientOnly:!0,className:"w-html-embed"})]})}),e.jsx(c,{className:"w-box c1onpbgg cqqbnux",children:e.jsxs(c,{className:"w-box c55zyem c9wdc4s c1r8ilwd c121g7ia c1c8jemz c13c1rcz cwe8ben c3pil9t c1sw5vaj ccdmp9m",children:[e.jsxs(c,{className:"w-box c1c8jemz c3pil9t c1sw5vaj c1revvy5 c1gfldl",children:[e.jsx(n,{children:e.jsx(i,{children:e.jsx(t,{target:"_blank",href:"https://www.instagram.com/zulmareyo",className:"w-link c1qgqhj9 cy5k50n ce1wqkj cl3pvvv",children:e.jsx(m,{code:`<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32" fill="none">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M16 9.32426C12.313 9.32426 9.32426 12.313 9.32426 16C9.32426 19.6868 12.313 22.6756 16 22.6756C19.6868 22.6756 22.6756 19.6868 22.6756 16C22.6756 12.313 19.6868 9.32426 16 9.32426ZM16 20.3333C13.6067 20.3333 11.6666 18.3932 11.6666 16C11.6666 13.6067 13.6067 11.6666 16 11.6666C18.3932 11.6666 20.3333 13.6067 20.3333 16C20.3333 18.3932 18.3932 20.3333 16 20.3333Z" fill="currentcolor"></path>
+  <path d="M22.9422 10.6203C23.8038 10.6203 24.5023 9.92187 24.5023 9.06029C24.5023 8.19872 23.8038 7.50032 22.9422 7.50032C22.0807 7.50032 21.3822 8.19872 21.3822 9.06029C21.3822 9.92187 22.0807 10.6203 22.9422 10.6203Z" fill="currentcolor"></path>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M16 3C12.4694 3 12.0267 3.01497 10.6401 3.07823C9.25642 3.14139 8.3114 3.36112 7.48445 3.68251C6.62959 4.01473 5.90461 4.45925 5.1819 5.18195C4.45919 5.90466 4.01468 6.62964 3.68246 7.48451C3.36107 8.3114 3.14134 9.25642 3.07818 10.6401C3.01491 12.0267 3 12.4694 3 16C3 19.5306 3.01491 19.9733 3.07818 21.3599C3.14134 22.7436 3.36107 23.6886 3.68246 24.5155C4.01468 25.3704 4.45919 26.0953 5.1819 26.8181C5.90461 27.5408 6.62959 27.9853 7.48445 28.3175C8.3114 28.6389 9.25642 28.8587 10.6401 28.9218C12.0267 28.985 12.4694 29 16 29C19.5306 29 19.9733 28.985 21.3599 28.9218C22.7436 28.8587 23.6886 28.6389 24.5155 28.3175C25.3704 27.9853 26.0953 27.5408 26.8181 26.8181C27.5408 26.0953 27.9853 25.3704 28.3175 24.5155C28.6389 23.6886 28.8587 22.7436 28.9218 21.3599C28.985 19.9733 29 19.5306 29 16C29 12.4694 28.985 12.0267 28.9218 10.6401C28.8587 9.25642 28.6389 8.3114 28.3175 7.48451C27.9853 6.62964 27.5408 5.90466 26.8181 5.18195C26.0953 4.45925 25.3704 4.01473 24.5155 3.68251C23.6886 3.36112 22.7436 3.14139 21.3599 3.07823C19.9733 3.01497 19.5306 3 16 3ZM16 5.34239C19.4711 5.34239 19.8823 5.3556 21.2531 5.41814C22.5206 5.47599 23.2089 5.68777 23.667 5.86575C24.2738 6.10158 24.7069 6.38334 25.1618 6.83822C25.6167 7.29311 25.8984 7.72622 26.1342 8.33297C26.3123 8.79106 26.5241 9.4794 26.5819 10.7469C26.6444 12.1177 26.6577 12.5289 26.6577 16C26.6577 19.4711 26.6444 19.8823 26.5819 21.2531C26.5241 22.5206 26.3123 23.2089 26.1342 23.667C25.8984 24.2738 25.6167 24.7069 25.1618 25.1618C24.7069 25.6167 24.2738 25.8984 23.667 26.1342C23.2089 26.3123 22.5206 26.5241 21.2531 26.5819C19.8825 26.6444 19.4714 26.6577 16 26.6577C12.5286 26.6577 12.1175 26.6444 10.7469 26.5819C9.4794 26.5241 8.79106 26.3123 8.33297 26.1342C7.72617 25.8984 7.29311 25.6167 6.83817 25.1618C6.38329 24.7069 6.10153 24.2738 5.86575 23.667C5.68772 23.2089 5.47594 22.5206 5.41809 21.2531C5.35555 19.8823 5.34234 19.4711 5.34234 16C5.34234 12.5289 5.35555 12.1177 5.41809 10.7469C5.47594 9.4794 5.68772 8.79106 5.86575 8.33297C6.10153 7.72622 6.38329 7.29311 6.83817 6.83822C7.29311 6.38334 7.72617 6.10158 8.33297 5.86575C8.79106 5.68777 9.4794 5.47599 10.7469 5.41814C12.1177 5.3556 12.5289 5.34239 16 5.34239Z" fill="currentcolor"></path>
+</svg>
+`,className:"w-html-embed"})})})}),e.jsx(n,{children:e.jsx(i,{})}),e.jsx(n,{children:e.jsx(i,{children:e.jsx(t,{target:"_blank",href:"https://www.facebook.com/ZulmaReyo",className:"w-link c1qgqhj9 cy5k50n ce1wqkj cl3pvvv",children:e.jsx(m,{code:`<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32" fill="none">
+  <path d="M13.0755 28H17.8395V15.9551H21.1654L21.5249 11.9101H17.8395C17.8395 11.9101 17.8395 10.382 17.8395 9.57303C17.8395 8.58427 18.0193 8.22472 18.9182 8.22472C19.6373 8.22472 21.5249 8.22472 21.5249 8.22472V4C21.5249 4 18.7384 4 18.1991 4C14.6036 4 12.9856 5.61798 12.9856 8.58427C12.9856 11.191 12.9856 11.8202 12.9856 11.8202H10.4688V15.8652H12.9856V28H13.0755Z" fill="currentcolor"></path>
+</svg>`,className:"w-html-embed"})})})}),e.jsx(n,{children:e.jsx(i,{children:e.jsx(t,{target:"_blank",href:"https://www.youtube.com/@Zulma-Reyo",className:"w-link c1qgqhj9 cy5k50n ce1wqkj cl3pvvv",children:e.jsx(m,{code:`<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32" fill="none">
+  <path d="M31.281 8.28904C31.9488 10.7806 31.9488 15.979 31.9488 15.979C31.9488 15.979 31.9488 21.1774 31.281 23.6687C30.9136 25.0433 29.8311 26.126 28.4565 26.4934C25.9648 27.1608 15.9743 27.1608 15.9743 27.1608C15.9743 27.1608 5.98369 27.1608 3.49191 26.4934C2.11755 26.126 1.03486 25.0433 0.667456 23.6687C0 21.1774 0 15.979 0 15.979C0 15.979 0 10.7806 0.667456 8.28904C1.03486 6.91443 2.11755 5.83198 3.49191 5.46458C5.98369 4.79688 15.9743 4.79688 15.9743 4.79688C15.9743 4.79688 25.9648 4.79688 28.4565 5.46458C29.8311 5.83198 30.9136 6.91443 31.281 8.28904ZM12.7792 20.7714L21.0795 15.979L12.7792 11.1867V20.7714Z" fill="currentcolor
+"></path>
+</svg>`,className:"w-html-embed"})})})})]}),e.jsxs(p,{className:"w-text ctbi92i c1ycqi1j ctuvkzm c14pf4we c1hv3ejz cwc5pnf",children:[e.jsx(t,{href:"/terms-and-conditions",className:"w-element c16gupz2 c1d38r3s cptdb8j c5bfwmr cg86m9t c1k4dzvw c179mceq c122lzqi c1rontuu c19eb01u",children:"Terms & Conditions "}),"| ",e.jsx(t,{href:"/privacy-policy",className:"w-element cg86m9t c19eb01u",children:"Privacy Policy"})," | ",e.jsx(t,{href:"/disclaimer",className:"w-element cg86m9t c19eb01u c11hxzxw c1ycqi1j c1hv3ejz cbpw6yu ctbi92i c10kborm ca24ei4 c1szdtbg coocrc9",children:"Disclaimer"})]}),e.jsx(p,{className:"w-text ctbi92i c1ycqi1j ctuvkzm c14pf4we c1hv3ejz ctbw9sp",children:"©2026 ZULMA REYO"})]})})]})})})})})]})}),I=a=>{const{origin:s,pathname:h,search:o}=new URL(a);return`${s}${h}${o}`},R=b.memo(({pageKey:a,system:s})=>e.jsx(E,{system:s},a),(a,s)=>a.pageKey===s.pageKey),W=({data:a})=>{const{system:s,resources:h,url:o,pageMeta:g}=a,y=I(o),v=b.useMemo(()=>({imageLoader:u,assetBaseUrl:d,assetUrlsByPath:q,resources:h,breakpoints:P,onError:console.error}),[h]);return e.jsxs(C.Provider,{value:v,children:[e.jsx(N.Provider,{value:o,children:e.jsx(R,{pageKey:y,system:s})}),e.jsx(S,{url:o,pageMeta:g,siteName:j,imageLoader:u,assetBaseUrl:d}),e.jsx(_,{children:g.title})]})},O=Object.freeze(Object.defineProperty({__proto__:null,default:W},Symbol.toStringTag,{value:"Module"})),U=({})=>{const a={"@context":"https://schema.org","@type":"WebSite",name:j};return e.jsxs(e.Fragment,{children:[e.jsx("script",{type:"application/ld+json",dangerouslySetInnerHTML:{__html:JSON.stringify(a,null,2)}}),e.jsx("link",{rel:"icon",href:u({src:`${d}${L}`})}),A.map(s=>e.jsx("link",{rel:"preload",href:`${d}${s}`,as:"font",crossOrigin:"anonymous"},s)),B.map(s=>e.jsx("link",{rel:"preload",href:`${d}${s}`,as:"image"},s))]})},Z=Object.freeze(Object.defineProperty({__proto__:null,Head:U},Symbol.toStringTag,{value:"Module"})),$={hasServerOnlyHook:{type:"computed",definedAtData:null,valueSerialized:{type:"js-serialized",value:!0}},isClientRuntimeLoaded:{type:"computed",definedAtData:null,valueSerialized:{type:"js-serialized",value:!0}},onBeforeRenderEnv:{type:"computed",definedAtData:null,valueSerialized:{type:"js-serialized",value:null}},dataEnv:{type:"computed",definedAtData:null,valueSerialized:{type:"js-serialized",value:{server:!0}}},guardEnv:{type:"computed",definedAtData:null,valueSerialized:{type:"js-serialized",value:null}},onRenderClient:{type:"standard",definedAtData:{filePathToShowToUser:"/renderer/+onRenderClient.tsx",fileExportPathToShowToUser:[]},valueSerialized:{type:"plus-file",exportValues:T}},Page:{type:"standard",definedAtData:{filePathToShowToUser:"/pages/beingreal/+Page.tsx",fileExportPathToShowToUser:[]},valueSerialized:{type:"plus-file",exportValues:O}},Head:{type:"standard",definedAtData:{filePathToShowToUser:"/pages/beingreal/+Head.tsx",fileExportPathToShowToUser:[]},valueSerialized:{type:"plus-file",exportValues:Z}}};export{$ as configValuesSerialized};
