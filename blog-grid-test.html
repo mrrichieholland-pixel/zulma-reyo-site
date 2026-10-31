@@ -1,0 +1,254 @@
+<!-- ZRSOC blog grid: LOCAL TEST VERSION. Save inside your zulma-reyo-site folder next to index.html, then double-click. Do not paste this into Webstudio. -->
+<style>
+  .zr-grid {
+    --zr-gap: 1.5rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--zr-gap);
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  @media (max-width: 991px) { .zr-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 599px) { .zr-grid { grid-template-columns: 1fr; } }
+
+  .zr-card {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+    background: #fff;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,0,0,.08);
+  }
+  .zr-img { aspect-ratio: 4 / 3; background: #e8e4dc; overflow: hidden; }
+  .zr-img img {
+    width: 100%; height: 100%; object-fit: cover; display: block;
+    transition: transform .4s ease;
+  }
+  .zr-card:hover .zr-img img { transform: scale(1.04); }
+  .zr-body { display: flex; flex-direction: column; gap: .4rem; padding: 1rem 1.1rem 1.2rem; flex: 1; }
+  .zr-title { font-size: 1.15rem; line-height: 1.3; font-weight: 600; }
+  .zr-date { font-size: .85rem; opacity: .65; }
+  .zr-cta { margin-top: auto; padding-top: .6rem; font-size: .9rem; font-weight: 600; color: #c8940a; }
+  .zr-card:hover .zr-cta { text-decoration: underline; }
+  .zr-card:focus-visible { outline: 3px solid #c8940a; outline-offset: 2px; }
+</style>
+
+<div class="zr-grid">
+  <a class="zr-card" href="./beingreal/index.html">
+    <div class="zr-img"><img loading="lazy" src="./assets/Being_Real_In_An_Unreal_World__EvJWXX4uqjxdO20pPo6W.jpeg" alt="Being Real In An Unreal World"></div>
+    <div class="zr-body">
+      <div class="zr-title">Being Real In An Unreal World</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./attachment/index.html">
+    <div class="zr-img"><img loading="lazy" src="./assets/ATTACHMENT_wBbLrgc7KWz8BDw3RdM8a.jpeg" alt="Attachment"></div>
+    <div class="zr-body">
+      <div class="zr-title">Attachment</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./apprenticeshipmyths/index.html">
+    <div class="zr-img"><img loading="lazy" src="./assets/APPRENTICESHIP_MYTHS_GAx0w8r58pL1KnbtrlHoI.jpeg" alt="Apprenticeship Myths"></div>
+    <div class="zr-body">
+      <div class="zr-title">Apprenticeship Myths</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./alonenessisnotlonely/index.html">
+    <div class="zr-img"><img loading="lazy" src="./assets/ALONENESS_IS_NOT_LONELY_zbT4XzWjDD9NV_chgBbFM.jpeg" alt="Aloneness Is Not Lonely"></div>
+    <div class="zr-body">
+      <div class="zr-title">Aloneness Is Not Lonely</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./dimensionsofconsiousness1/index.html">
+    <div class="zr-img"><img loading="lazy" src="./assets/Dimensions_of_Consciousness_-_Part_1_T-M6Fc3aPbbxOYavRJkr0.jpeg" alt="Dimensions of Consciousness - Part 1"></div>
+    <div class="zr-body">
+      <div class="zr-title">Dimensions of Consciousness - Part 1</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./copy-1/dimensionsofconsiousness2/index.html">
+    <div class="zr-img"><img loading="lazy" src="./assets/DIMENSIONS_OF_CONSCIOUS_-_PART_2_txugPMtRzzNsvzin_yTFb.jpeg" alt="Dimensions of Consciousness - Part 2"></div>
+    <div class="zr-body">
+      <div class="zr-title">Dimensions of Consciousness - Part 2</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./humanbeingsforgothowtofeel/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/human-beings-forgot-how-to-feel.jpeg" alt="Human Beings Forgot How To Feel"></div>
+    <div class="zr-body">
+      <div class="zr-title">Human Beings Forgot How To Feel</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./spiritoflearning/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Spirit%20of%20Learning.jpeg" alt="Spirit of Learning"></div>
+    <div class="zr-body">
+      <div class="zr-title">Spirit of Learning</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./copy-1/fearmoneyandthedominationofthecollectivemind/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Fear%20Money%20and%20The%20Domination%20of%20The%20Collective%20Mind.jpeg" alt="Fear, Money and The Domination of The Collective Mind"></div>
+    <div class="zr-body">
+      <div class="zr-title">Fear, Money and The Domination of The Collective Mind</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./inneralchemysuperconsciousness/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Inner%20Alchemy%20Superconciousness.png" alt="Inner Alchemy: Superconciousness"></div>
+    <div class="zr-body">
+      <div class="zr-title">Inner Alchemy: Superconciousness</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./linkingwiththesourcepart1/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Linking%20With%20The%20Source%20Part%201.jpeg" alt="Linking With The Source - Part 1"></div>
+    <div class="zr-body">
+      <div class="zr-title">Linking With The Source - Part 1</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./leadership/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Leadership.jpeg" alt="Leadership"></div>
+    <div class="zr-body">
+      <div class="zr-title">Leadership</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./linkingwiththesourceconclusion/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Linking%20With%20The%20Source%20Conclusion.jpeg" alt="Linking With The Source - Conclusion"></div>
+    <div class="zr-body">
+      <div class="zr-title">Linking With The Source - Conclusion</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./livingtheideal/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Living%20The%20Ideal.jpeg" alt="Living The Ideal"></div>
+    <div class="zr-body">
+      <div class="zr-title">Living The Ideal</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./questioningauthenticity/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Questionable%20Authenticity.jpeg" alt="Questionable Authenticity"></div>
+    <div class="zr-body">
+      <div class="zr-title">Questionable Authenticity</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./wearetheproblem/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/We%20Are%20The%20Problem.jpeg" alt="We Are The Problem"></div>
+    <div class="zr-body">
+      <div class="zr-title">We Are The Problem</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./theinfiniteforever/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/The%20Infinite%20Forever.png" alt="The Infinite Forever"></div>
+    <div class="zr-body">
+      <div class="zr-title">The Infinite Forever</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./copy-1/theneutralmind/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/The%20Neutral%20Mind.jpeg" alt="The Neutral Mind"></div>
+    <div class="zr-body">
+      <div class="zr-title">The Neutral Mind</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./therescue/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/The%20Rescue.jpeg" alt="The Rescue"></div>
+    <div class="zr-body">
+      <div class="zr-title">The Rescue</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./timetowalkthetalk/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Time%20To%20Walk%20The%20Talk.jpeg" alt="Time To Walk The Talk"></div>
+    <div class="zr-body">
+      <div class="zr-title">Time To Walk The Talk</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./themasterpracticeexplored/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/The%20master%20practice.png" alt="The Master Practice explored"></div>
+    <div class="zr-body">
+      <div class="zr-title">The Master Practice explored</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./inneralchemywins/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Inner%20Alchemy%20wins%20an%20Independent%20Press%20Award%20Gold%20Award.jpeg" alt="Inner Alchemy wins an Independent Press Award Gold Award"></div>
+    <div class="zr-body">
+      <div class="zr-title">Inner Alchemy wins an Independent Press Award Gold Award</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./copy-1/inneralchemywins2/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Inner%20Alchemy%20Receives%20It%E2%80%99s%20Second%20Award.jpeg" alt="Inner Alchemy Receives Its Second Award"></div>
+    <div class="zr-body">
+      <div class="zr-title">Inner Alchemy Receives Its Second Award</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./inneralchemythepathofmasteryrevisededition/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Inner%20Alchemy%20The%20Path%20Of%20Mastery%20revised%20edition.jpeg" alt="Inner Alchemy: The Path Of Mastery revised edition"></div>
+    <div class="zr-body">
+      <div class="zr-title">Inner Alchemy: The Path Of Mastery revised edition</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./adifferentkindofbibliography/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/A%20different%20kind%20of%20bibliography.png" alt="A different kind of bibliography"></div>
+    <div class="zr-body">
+      <div class="zr-title">A different kind of bibliography</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+
+  <!-- NOT PUBLISHED YET: no page folder found in the repo for these.
+       Move each card above this note once its page exists and check the link.
+  <a class="zr-card" href="./dimensionsofconsiousness3/index.html">
+    <div class="zr-img"><img loading="lazy" src="./assets/DIMENSIONS_OF_CONSCIOUSNESS_-_PART_3_1VznyxL8mIZh5_iOiGnm_.jpeg" alt="Dimensions of Consciousness - Part 3"></div>
+    <div class="zr-body">
+      <div class="zr-title">Dimensions of Consciousness - Part 3</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./spiritualityisnatural/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Spirituality%20Is%20Natural.jpeg" alt="Spirituality Is Natural"></div>
+    <div class="zr-body">
+      <div class="zr-title">Spirituality Is Natural</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./inneralchemyphilosophy/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Inner%20Alchemy%20Philosophy.png" alt="Inner Alchemy Philosophy"></div>
+    <div class="zr-body">
+      <div class="zr-title">Inner Alchemy Philosophy</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./amessagetofuturestudents/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/A%20message%20to%20future%20students.jpeg" alt="A message to future students"></div>
+    <div class="zr-body">
+      <div class="zr-title">A message to future students</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  <a class="zr-card" href="./tcche2022/index.html">
+    <div class="zr-img"><img loading="lazy" src="./images/Zulma%20Reyo%20TCCHE%20Talk%202022.png" alt="Zulma Reyo TCCHE Talk 2022"></div>
+    <div class="zr-body">
+      <div class="zr-title">Zulma Reyo TCCHE Talk 2022</div>
+      <div class="zr-cta">Read More</div>
+    </div>
+  </a>
+  -->
+</div>
